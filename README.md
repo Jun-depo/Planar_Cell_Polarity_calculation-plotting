@@ -26,4 +26,4 @@ PCPquantification.ipynb
 
 ### Lisence 
 
-You are allowed to used and modify the script.  Please refer to this depository in your public presentations and publications.
+You are allowed to use and modify the script.  Please refer to this depository in your public presentations and publications.
