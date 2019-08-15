@@ -2,7 +2,7 @@
 
 ### Planar Cell Polarity
 
-Planar cell polarity (PCP) is the cell polarity within the plane of the epithelium. A group of genes was discovered to be gentically required proper PCP specification.  Many of their protein products are also planar polarized.  Read reviews for more details, [review1](https://dev.biologists.org/content/144/2/187) [review2](http://jcb.rupress.org/content/207/2/171) [review3](https://www.ncbi.nlm.nih.gov/pubmed/19560358)
+Planar cell polarity (PCP) is the cell polarity within the plane of the epithelium. A group of genes was discovered to be gentically required proper PCP specification.  Many of their protein products are also planar polarized.  Read reviews for more details ([review1](https://dev.biologists.org/content/144/2/187), [review2](http://jcb.rupress.org/content/207/2/171), [review3](https://www.ncbi.nlm.nih.gov/pubmed/19560358)
 
 
 ### Quantification of PCP
@@ -12,7 +12,7 @@ The associated software package "Tissue Analyzer" has been further updated, refe
 
 The program calculates many aspects of cell morphologies and export data to sql databases that can be queried and exported as csv files. PCPs can also be plotted. But PCP angles are not calculated by "Tissue Analyzer".  
 
-I wrote the Python script in Jupyter notebook format to calculate the angle. PCPs were replotted and compared to the PCPs plotted by Tissue Analyer to make sure the calculation wascorrect.
+I wrote the Python script in Jupyter notebook format to calculate the angle. PCPs were replotted and compared to the PCPs plotted by Tissue Analyer to make sure the calculation was correct.
 
 The relevant features for the PCP are "center_x_cells", "center_y_cells", "P1_polarity_ch2" and "P2_polarity_ch2"
 * "center_x_cells" (x) and "center_y_cells" (y) labels the position of the cell.
@@ -26,4 +26,4 @@ PCPquantification.ipynb
 
 ### Lisence 
 
-You are allowed to use and modify the script.  Please refer to this depository in your public presentations and publications.
+You are allowed to use and modify the script.  Please refer to this depository in your public presentations and publications if use this script.
