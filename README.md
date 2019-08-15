@@ -2,7 +2,7 @@
 
 ### Planar Cell Polarity
 
-Planar cell polarity (PCP) is the cell polarity within the plane of the epithelium. A group of genes was discovered to be gentically required proper PCP specification.  Many of their protein products are also planar polarized.  Read reviews for more details ([review1](https://dev.biologists.org/content/144/2/187), [review2](http://jcb.rupress.org/content/207/2/171), [review3](https://www.ncbi.nlm.nih.gov/pubmed/19560358)
+Planar cell polarity (PCP) is the cell polarity within the plane of the epithelium. A group of genes was discovered to be gentically required proper PCP specification.  Many of their protein products are also planar polarized.  Read reviews for more details ([review1](https://dev.biologists.org/content/144/2/187), [review2](http://jcb.rupress.org/content/207/2/171), [review3](https://www.ncbi.nlm.nih.gov/pubmed/19560358))
 
 
 ### Quantification of PCP
